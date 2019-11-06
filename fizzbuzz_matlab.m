@@ -7,6 +7,6 @@ for i=1:100
     elseif(mod(i,5)==0)
         disp("Buzz");
     else
-        disp(i) 
+        disp(i); 
     end
 end
