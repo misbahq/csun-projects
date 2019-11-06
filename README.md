@@ -1,2 +1,3 @@
-# csun-projects
-Projects coded at California State University, Northridge 
+# fizzbuzz
+Personal projects, coding FizzBuzz in various languages. 
+First update: FizzBuzz in C++, compiled and run on C++ Shell. 
